@@ -1,0 +1,25 @@
+.wrapper {
+  margin: 100px auto;
+}
+
+.list {
+  margin: 20px auto;
+  padding: 0;
+  text-decoration: none;
+}
+
+.item {
+  width: 500px;
+  line-height: 50px;
+  margin: 3px auto;
+  background: whitesmoke;
+  list-style: none;
+}
+
+.input {
+  display: block;
+  width: 500px;
+  line-height: 50px;
+  font-size: 30px;
+  margin: 0px auto;
+}
